@@ -1,4 +1,11 @@
 # headstarter_discord-ai-clone
+
+![Visits Badge](https://badges.pufler.dev/visits/bshongwe/headstarter_discord-ai-clone)
+![GitHub Repo Stars](https://img.shields.io/github/stars/bshongwe/headstarter_discord-ai-clone)
+![GitHub Forks](https://img.shields.io/github/forks/bshongwe/headstarter_discord-ai-clone)
+![GitHub Issues](https://img.shields.io/github/issues/bshongwe/headstarter_discord-ai-clone)
+![GitHub License](https://img.shields.io/github/license/bshongwe/headstarter_discord-ai-clone)
+
 Headstarter AI Software Engineering Accelerator - Project 2
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
